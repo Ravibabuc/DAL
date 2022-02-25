@@ -13,6 +13,7 @@ using namespace std;
 
 int solve(string A) 
 {
+    int x=0;
     int n =A.size();
     int i=0;
     int j =0;
